@@ -39,6 +39,7 @@ We tested multiple machine learning models to determine the best performer:
 
 ### **Feature Importance (Random Forest)**  
 <img width="471" alt="{75700A7B-DCFE-4B8B-9DEC-9094118CBF0A}" src="https://github.com/user-attachments/assets/09e6b0dc-9c3e-4d94-9387-b40332fd72cb" />
+
 - **Top predictors of wine quality**:  
   1. **Alcohol content**  
   2. **Volatile acidity**  
